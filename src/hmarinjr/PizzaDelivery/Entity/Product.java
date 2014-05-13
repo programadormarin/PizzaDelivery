@@ -1,5 +1,6 @@
 package hmarinjr.PizzaDelivery.Entity;
 
-public class Product {
+public class Product 
+{
     
 }
