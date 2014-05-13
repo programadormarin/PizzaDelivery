@@ -1,8 +1,7 @@
 package hmarinjr.PizzaDelivery.Entity;
 
-public class Contact 
+public class ContactType 
 {
     int id;
-    ContactType type;
     String value;
 }

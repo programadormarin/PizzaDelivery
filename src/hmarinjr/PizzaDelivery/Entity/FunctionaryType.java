@@ -1,7 +1,7 @@
 package hmarinjr.PizzaDelivery.Entity;
 
-public class SaleType 
+public class FunctionaryType 
 {
     int id;
-    String value;
+    String value;    
 }

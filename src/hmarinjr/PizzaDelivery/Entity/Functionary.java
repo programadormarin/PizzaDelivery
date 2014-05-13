@@ -1,6 +1,7 @@
 package hmarinjr.PizzaDelivery.Entity;
 
-public class Functionary 
+public class Functionary extends User
 {
+    FunctionaryType type;
     
 }

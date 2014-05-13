@@ -1,6 +1,6 @@
 package hmarinjr.PizzaDelivery.Entity;
 
-public class PruductType 
+public class ProductType 
 {
-    
+    int id;
 }
